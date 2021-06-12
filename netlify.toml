@@ -20,3 +20,13 @@ to = "/data/documentation/vapordocc.json"
 from = "/"
 status = 302
 to = "/documentation/"
+
+[[redirects]]
+from = "/documentation"
+status = 302
+to = "/documentation/"
+
+[[redirects]]
+from = "/tutorials"
+status = 302
+to = "/tutorials/"
