@@ -1,0 +1,17 @@
+[build]
+publish = "VaporDocC.doccarchive/"
+
+[[redirects]]
+from = "/documentation/*"
+status = 200
+to = "/index.html"
+
+[[redirects]]
+from = "/tutorials/*"
+status = 200
+to = "/index.html"
+
+[[redirects]]
+from = "/data/documentation.json"
+status = 200
+to = "/data/documentation/vapordocc.json"
