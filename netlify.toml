@@ -15,3 +15,8 @@ to = "/index.html"
 from = "/data/documentation.json"
 status = 200
 to = "/data/documentation/vapordocc.json"
+
+[[redirects]]
+from = "/"
+status = 302
+to = "/documentation/"
