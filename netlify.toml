@@ -39,4 +39,4 @@ to = "/tutorials/"
 
     [headers.values]
         X-Robots-Tag = "noindex, nofollow"
-        Link = "<https://vapordocc.josephduffy.co.uk/:splat>; rel=\"canonical\""
+        # Link = "<https://vapordocc.josephduffy.co.uk/:splat>; rel=\"canonical\""
